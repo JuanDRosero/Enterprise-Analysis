@@ -1,7 +1,6 @@
 /*
- * Enterprice Analysis
+ * Enterprise Analysis
  * Programa desarrollado por Juan David Rosero Torres para la materia de Redes 1 de la Universidad Distrital Francisco Jose de caldas
- * Su uso se encuentra limitado al ambito academico y se proibe su distribución sin previa autorización.
  */
 
 using EnterpriseAnalisys.Vista;

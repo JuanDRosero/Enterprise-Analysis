@@ -4,6 +4,8 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>EnterpriseAnalysis</AssemblyName>
+    <ApplicationIcon>artboard_123065.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
